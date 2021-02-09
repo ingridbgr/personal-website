@@ -11,10 +11,16 @@ const Portfolio = () => {
           <a href="https://gitlab.com/ingridbgr/lig-4-capivaras-nomads">
             lIG-4 Game
           </a>
-          <p></p>
-          <a href="https://gitlab.com/deborabarros/kenziehub">
-            A Social media for devs
-          </a>
+          <p>
+            <a href="https://gitlab.com/deborabarros/kenziehub">
+              A Social media for devs
+            </a>
+          </p>
+          <p>
+            <a href="https://gitlab.com/ingridbgr/personal-profile">
+              This website repo!
+            </a>
+          </p>
         </Tech>
       </Text>
     </Card>
