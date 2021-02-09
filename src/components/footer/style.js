@@ -12,14 +12,9 @@ export const FooterBox = styled.div`
   background-size: 80%;
 `;
 
-export const Title = styled.div`
-  text-align: center;
-  font-size: 30px;
-  color: black;
-`;
-
 export const Text = styled.div`
   font-size: 20px;
+  text-align: center;
   padding-top: 50px;
   color: gray;
 `;

@@ -1,9 +1,14 @@
-import { FooterBox, Title, Text } from "./style";
+import { FooterBox, Text } from "./style";
 
 const Footer = () => {
   return (
     <FooterBox>
-      <Text> here is the footer </Text>
+      <Text>
+        {" "}
+        Developed by Ingrid Benites Guntendorfer Rodrigues using React and
+        Styled Components
+      </Text>
+      <Text> 2021 </Text>
     </FooterBox>
   );
 };
